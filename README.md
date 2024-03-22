@@ -1,3 +1,19 @@
+## Forked Repository
+
+This is a forked repistory from [https://github.com/cyph/cordova-plugin-chooser](https://github.com/cyph/cordova-plugin-chooser).
+
+The purpose of this forked repository is to cater for some enhancments that is not supported in the main repository yet.
+
+### Changes
+
+See the change logs file.
+
+---
+
+Below contains the original content of README.md file from the main author of the plugin.
+
+---
+
 # Chooser
 
 ## Overview
